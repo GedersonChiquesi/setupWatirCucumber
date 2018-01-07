@@ -1,4 +1,5 @@
 # SetupWatirCucumber
+[![Gem Version](https://badge.fury.io/rb/setupWatirCucumber.svg)](https://badge.fury.io/rb/setupWatirCucumber)
 
 A gem for setup BDD automation with [Cucumber](https://github.com/cucumber/cucumber) and [Watir](https://github.com/watir/watir) Framework
 
