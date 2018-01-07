@@ -23,7 +23,7 @@ Or install it yourself as:
 After instalation then execute:
 
 ```
-    $ setupWatirCucumber create --path "./"
+    $ setupWatirCucumber create --from "./"
 ```
 
 This command will configure the cucumber, will configure the env and hooks and finally create a scenario to test the installation
