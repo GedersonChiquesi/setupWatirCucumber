@@ -2,6 +2,9 @@
 
 A gem for setup BDD automation with [Cucumber](https://github.com/cucumber/cucumber) and [Watir](https://github.com/watir/watir) Framework
 
+Compatibility linux
+
+Windows and MacOs comming soon...
 ## Installation
 
 Add this line to your application's Gemfile:
